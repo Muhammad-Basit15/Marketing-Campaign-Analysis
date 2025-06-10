@@ -2,7 +2,7 @@
 Analyze the performance of marketing campaigns to identify trends  and ROI. 
 This Power BI dashboard visualizes key performance indicators (KPIs) for five marketing campaigns, enabling clear insights into customer behavior, campaign success, and revenue generation trends.
 
-**🔍 Visual Overview
+## Visual Overview
 * Campaign Overview Cards: Display the number of campaign acceptances per campaign, total responses, customers reached, campaign costs, ROI, and total revenue.
 
 * Campaign Filters: Interactive buttons allow users to isolate data by individual campaign numbers for focused analysis.
